@@ -1,0 +1,53 @@
+/* landingpage.css */
+
+.landing-page {
+    max-width: 800px;
+    background-color:#FEF9F3;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    color: #00ced1;
+  }
+  
+  h1 {
+    color: #00ced1;
+  }
+  
+  .skip-link {
+    position: absolute;
+    top: -40px;
+    left: 0;
+    background-color: blue;
+    color: #00ced1;
+    padding: 5px;
+    text-decoration: none;
+  }
+  
+  .skip-link:focus {
+    top: 0;
+  }
+  
+  main {
+    margin-top: 20px;
+  }
+  
+  section {
+    margin-bottom: 40px;
+  }
+  
+  h2 {
+    color: #00ced1;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+    color: black;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  p{
+    color: black;
+  }
